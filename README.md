@@ -19,7 +19,7 @@ The project leverages Object-Oriented Programming (OOP) to structure and manage 
 ## Installation
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/8ARTEZZIO/Snake-Game.git
+   git clone https://github.com/[yourusername]/Snake-Game.git
    cd Snake-Game
 
 ## Usage
