@@ -30,5 +30,6 @@ The snake game starts automatically with the AI controlling the snake. The objec
 -Online Course Inspiration: Initial inspiration came from a course, though the code was ultimately written independently.
 
 ## Future Improvements
+- Adding more accurate code comments,
 - Enhancing AI behavior for more strategic navigation,
 - Adding difficulty levels.
