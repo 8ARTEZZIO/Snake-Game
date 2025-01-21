@@ -1,4 +1,4 @@
-# AI Snake Game
+# AI Snake Game (issue with dashbooard file - simple fix necessary)
 
 This is a simple AI-driven Snake game written in Python. 
 The snake autonomously navigates the grid, aiming to collect food and grow longer while avoiding collisions.
